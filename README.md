@@ -5,7 +5,7 @@ August 2, 2019
 Kayla's Python Project
 
 ### Description
-Displays select bikeshare data dependent on user inputs for city, month and day of week
+Displays select bike share data dependent on user inputs for city, month and day of week.  Cities limited to Chicago, New York City, and Washington DC.
 
 ### Files used
 bikeshare.py
